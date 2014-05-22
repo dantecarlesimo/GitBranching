@@ -1,5 +1,1 @@
-puts "Hello World!"
-puts "#yoloswag"
-puts "Hello"
-puts "My name is Jackie"
-puts "new code"
+puts "this is the master"
